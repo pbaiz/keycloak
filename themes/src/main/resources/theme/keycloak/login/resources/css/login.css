@@ -205,8 +205,7 @@ a#kc-current-locale-link::after {
 }
 
 #kc-logo-wrapper {
-/*    background-image: url(../img/keycloak-logo-2.png); PBV */
-    background-image: url(../img/ez-logo.png);
+    background-image: url(../img/keycloak-logo-2.png);
     background-repeat: no-repeat;
     height: 63px;
     width: 300px;
@@ -214,8 +213,7 @@ a#kc-current-locale-link::after {
 }
 
 div.kc-logo-text {
-/*    background-image: url(../img/keycloak-logo-text.png); PBV*/
-    background-image: url(../img/ez-logo.png);
+    background-image: url(../img/keycloak-logo-text.png);
     background-repeat: no-repeat;
     height: 63px;
     width: 300px;
