@@ -328,7 +328,8 @@ th.w-40 {
   height: 56px;
   line-height: 56px;
   background-position: center center;
-  background-image: url('../img/keyclok-logo.png');
+/*  background-image: url('../img/keyclok-logo.png'); PBV */
+  background-image: url('../img/ez-logo.png');
   background-size: 148px 30px;
   background-repeat: no-repeat;
   width: 148px;
